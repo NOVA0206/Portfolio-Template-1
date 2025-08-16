@@ -2,7 +2,8 @@
 
 A sleek, customizable portfolio web template built with HTML, CSS, and JavaScript. Ideal for developers, designers, or creatives looking to showcase their projects, skills, and contact information with a modern look and interactive experience.
 
-[Preview](Portfolio1.1.png)
+(Portfolio1.1.png)
+(Portfolio1.2.png)
 
 ---
 
