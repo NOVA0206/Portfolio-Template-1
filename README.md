@@ -2,7 +2,7 @@
 
 A sleek, customizable portfolio web template built with HTML, CSS, and JavaScript. Ideal for developers, designers, or creatives looking to showcase their projects, skills, and contact information with a modern look and interactive experience.
 
-[Preview](images/preview.png)
+[Preview](Portfolio1.1.png)
 
 ---
 
@@ -28,8 +28,8 @@ No installation is required—all you need is a modern web browser.
    ```bash
    git clone https://github.com/NOVA0206/Portfolio-Template-1.git
    cd Portfolio-Template-1
-````
-
+   ```
+   
 2. Open `Portfolio1.html` in your preferred browser—or serve locally for live reloading:
 
    ```bash
@@ -65,7 +65,7 @@ No installation is required—all you need is a modern web browser.
 
 ## License
 
-This project is released under the **MIT License** — see the [LICENSE](LICENSE) file for details. ([GitHub][1])
+This project is released under the **MIT License** — see the [LICENSE](LICENSE) file for details. 
 
 ---
 
@@ -82,9 +82,3 @@ Built with passion by Jeevan Jadhav.
 Let’s connect!
 
 ---
-
-## Acknowledgments
-
-Thanks to all the open-source template creators and design inspiration sources.
-
-[1]: https://github.com/NOVA0206/Portfolio-Template-1.git "GitHub - NOVA0206/Portfolio-Template-1"
